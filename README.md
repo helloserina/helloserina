@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm Serina Khanna, a sophomore student at the University of California, San Diego.
+I'm Serina Khanna, a sophomore student at the University of California, San Diego. My pronouns are she/her/hers.
 
-🔭 I’m currently working on NASA L'SPACE
+🔭 I’m currently working on repository L-SPACE-Team-40 to develop a website for NASA L'SPACE!
+
+⚡ Fun fact: I'm double jointed in my elbows and I have hitchhiker's thumb!
 
 <!--
 **helloserina/helloserina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
