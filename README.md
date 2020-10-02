@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Serina Khanna, a sophomore student at the University of California, San Diego.
+
 🔭 I’m currently working on NASA L'SPACE
 
 <!--
