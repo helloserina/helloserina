@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# I'm Serina Khanna, a sophomore student at the University of California, San Diego.
-# 🔭 I’m currently working on NASA L'SPACE
+I'm Serina Khanna, a sophomore student at the University of California, San Diego.
+🔭 I’m currently working on NASA L'SPACE
 
 <!--
 **helloserina/helloserina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
