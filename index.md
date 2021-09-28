@@ -29,10 +29,10 @@ git add .
 ```
 
 ### My Tasks for this Quarter
-- [ ] Be Co-President of oSTEM @ UCSD
-- [ ] Complete my classes
-- [ ] Set up my apartment!
+[ ] Be Co-President of oSTEM @ UCSD
+[ ] Complete my classes
+[ ] Set up my apartment!
 
 ### Profiles
-**Email: ** skhanna@ucsd.edu
-**LinkedIn: ** [https://pages.github.com/](https://pages.github.com/)
+**Email:** skhanna@ucsd.edu
+**LinkedIn:** [https://pages.github.com/](https://pages.github.com/)
