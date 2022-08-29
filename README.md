@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Serina Khanna, a sophomore student at the University of California, San Diego.
+I'm Serina Khanna, a senior at the University of California, San Diego.
 
 ⚡ Fun fact: I'm double jointed in my elbows and I have hitchhiker's thumb!
 
