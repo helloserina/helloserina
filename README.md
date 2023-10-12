@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Serina Khanna, a senior at the University of California, San Diego.
-
 ⚡ Fun fact: I'm double jointed in my elbows and I have hitchhiker's thumb!
 
 📫 You can reach me @ skhanna@ucsd.edu or check out my LinkedIn @ https://www.linkedin.com/in/serina-khanna/
